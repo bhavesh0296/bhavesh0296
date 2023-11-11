@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Bhavesh
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on iOS projects
 - 📫 Connect me into [Twitter](https://twitter.com/bhaveshgupta21), [LinkedIn](https://www.linkedin.com/in/knowbhaveshgupta/)
 
